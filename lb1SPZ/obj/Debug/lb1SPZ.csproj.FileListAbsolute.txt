@@ -1,0 +1,7 @@
+C:\Users\osadc\source\repos\lb1SPZ\lb1SPZ\bin\Debug\lb1SPZ.exe.config
+C:\Users\osadc\source\repos\lb1SPZ\lb1SPZ\bin\Debug\lb1SPZ.exe
+C:\Users\osadc\source\repos\lb1SPZ\lb1SPZ\bin\Debug\lb1SPZ.pdb
+C:\Users\osadc\source\repos\lb1SPZ\lb1SPZ\obj\Debug\lb1SPZ.csproj.AssemblyReference.cache
+C:\Users\osadc\source\repos\lb1SPZ\lb1SPZ\obj\Debug\lb1SPZ.csproj.CoreCompileInputs.cache
+C:\Users\osadc\source\repos\lb1SPZ\lb1SPZ\obj\Debug\lb1SPZ.exe
+C:\Users\osadc\source\repos\lb1SPZ\lb1SPZ\obj\Debug\lb1SPZ.pdb
